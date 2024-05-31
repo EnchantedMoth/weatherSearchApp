@@ -9,7 +9,7 @@ Once you search your location the page dynamically displays your local weather i
 
 
 ## Give it a try
-
+### [Try it](https://enchantedmoth.github.io/weatherSearchApp/) yourself
 ![app demo](./assets/images/weatherApp.png)
 
 
@@ -19,3 +19,5 @@ Once you search your location the page dynamically displays your local weather i
 
 Reach me via Email timothy.james.lewis.31@gmail.com
 
+## Resources
+Code given with the project.
